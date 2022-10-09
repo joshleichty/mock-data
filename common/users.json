@@ -1,0 +1,456 @@
+[{
+  "_id": "lNBdBf5K1ERGVYwhknDXMwjXDFn2",
+  "__v": 0,
+  "email": "tscuffham2@ucla.edu",
+  "name": "Trudie Scuffham",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f1"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "CvLtx79VM6NK8OForOA72CiVntn2",
+  "__v": 0,
+  "email": "btardiff1@spotify.com",
+  "name": "Bridget Tardiff",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182701"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f2"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "UrHGKnDUVbT45JXuh9cxGRfuIKU2",
+  "__v": 0,
+  "email": "gbumpass0@wikimedia.org",
+  "name": "Godiva Bumpass",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182775"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f3"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "DMI4bCpN9gXsVmct6uSyefSaY992",
+  "__v": 0,
+  "email": "msonnenschein3@arstechnica.com",
+  "name": "Matty Sonnenschein",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182779"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f4"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "u3GIuVF3ZiTAPxfBjLT2hBmdpSV2",
+  "__v": 0,
+  "email": "jcourvert4@techcrunch.com",
+  "name": "Jacquette Courvert",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f5"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "YsmybC38NvQzFgTIH4awh0OnrGd2",
+  "__v": 0,
+  "email": "tpanniers5@miibeian.gov.cn",
+  "name": "Teddy Panniers",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182792"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f6"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "mlnaEV2wbMbygNZBtKpuZKYGXWZ2",
+  "__v": 0,
+  "email": "rmcauslene6@xinhuanet.com",
+  "name": "Roland McAuslene",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f7"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "7oY6Mb8H2manD1Y8uVIvuC1UMp23",
+  "__v": 0,
+  "email": "kpoundesford7@uol.com.br",
+  "name": "Kara Poundesford",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182860"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f8"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "TXs4l1FRw3TpxJAA29xdDEXD0KG2",
+  "__v": 0,
+  "email": "aschultze9@google.co.uk",
+  "name": "Aguistin Schultze",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182899"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3f9"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "9zelQEMJBZfWU2Zw7y6S6rR3J9k1",
+  "__v": 0,
+  "email": "hgoggen8@abc.net.au",
+  "name": "Hersh Goggen",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182916"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3fa"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "eOWu4YzXF0O2oVy6VC1kDrSqERL2",
+  "__v": 0,
+  "email": "fkayzerc@java.com",
+  "name": "Ferdinanda Kayzer",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182938"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3fb"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "C321PBEQg6RDP40Ep4L9pBWoz3B2",
+  "__v": 0,
+  "email": "ghurna@clickbank.net",
+  "name": "Gretna Hurn",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182944"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3fc"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "qAL6iUsmM5fWfpb5yzK81zOcSJ02",
+  "__v": 0,
+  "email": "eveaseyb@cornell.edu",
+  "name": "Eran Veasey",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182985"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3fd"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "I6BFHmVIgraHfdKepmGqiku4IJh1",
+  "__v": 0,
+  "email": "mreltond@blogspot.com",
+  "name": "Mill Relton",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806182998"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3fe"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "gHOKg5KvCZW4SsYsylRAYF55mWQ2",
+  "__v": 0,
+  "email": "cocollopye@theatlantic.com",
+  "name": "Conn O'Collopy",
+  "providerId": "firebase.com",
+  "role": "worker",
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664806183000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664885776702"
+    }
+  },
+  "licenses": [],
+  "companies": [
+    {
+      "_id": {
+        "$oid": "633c24100fe99d06c546a3ff"
+      },
+      "company": {
+        "$oid": "633aef62ebdb8909cb5c5ad8"
+      }
+    }
+  ]
+},{
+  "_id": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "__v": 0,
+  "email": "lboggas1@instagram.com",
+  "providerId": "firebase.com",
+  "role": "admin",
+  "deletedAt": null,
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664807612767"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664807612767"
+    }
+  }
+}]

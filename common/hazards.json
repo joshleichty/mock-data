@@ -1,0 +1,1081 @@
+[{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e15"
+  },
+  "__v": 0,
+  "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "level": "high",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.268585,
+    "lng": 149.131328
+  },
+  "worker": "u3GIuVF3ZiTAPxfBjLT2hBmdpSV2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cd"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089272"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089272"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e17"
+  },
+  "__v": 0,
+  "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "level": "high",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.267417,
+    "lng": 149.131649
+  },
+  "worker": "gHOKg5KvCZW4SsYsylRAYF55mWQ2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cd"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089343"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089343"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e1a"
+  },
+  "__v": 0,
+  "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.292326,
+    "lng": 149.121447
+  },
+  "worker": "UrHGKnDUVbT45JXuh9cxGRfuIKU2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ca"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089392"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089392"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e1c"
+  },
+  "__v": 0,
+  "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.291515,
+    "lng": 149.117711
+  },
+  "worker": "C321PBEQg6RDP40Ep4L9pBWoz3B2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ca"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089415"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089415"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e1e"
+  },
+  "__v": 0,
+  "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.290804,
+    "lng": 149.119188
+  },
+  "worker": "9zelQEMJBZfWU2Zw7y6S6rR3J9k1",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ca"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089431"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089431"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e22"
+  },
+  "__v": 0,
+  "description": "The Football Is Good For Training And Recreational Purposes",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.304256,
+    "lng": 149.090076
+  },
+  "worker": "DMI4bCpN9gXsVmct6uSyefSaY992",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cb"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089478"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089478"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e24"
+  },
+  "__v": 0,
+  "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.305329,
+    "lng": 149.091074
+  },
+  "worker": "mlnaEV2wbMbygNZBtKpuZKYGXWZ2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cb"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089497"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089497"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e27"
+  },
+  "__v": 0,
+  "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.242519,
+    "lng": 149.032343
+  },
+  "worker": "YsmybC38NvQzFgTIH4awh0OnrGd2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cf"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089533"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089533"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e29"
+  },
+  "__v": 0,
+  "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.247507,
+    "lng": 149.030172
+  },
+  "worker": "C321PBEQg6RDP40Ep4L9pBWoz3B2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cf"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089566"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089566"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e2c"
+  },
+  "__v": 0,
+  "description": "The Football Is Good For Training And Recreational Purposes",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.32463,
+    "lng": 149.084245
+  },
+  "worker": "C321PBEQg6RDP40Ep4L9pBWoz3B2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ce"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089600"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089600"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e2e"
+  },
+  "__v": 0,
+  "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+  "level": "high",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.323697,
+    "lng": 149.085656
+  },
+  "worker": "lNBdBf5K1ERGVYwhknDXMwjXDFn2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ce"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089621"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089621"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e31"
+  },
+  "__v": 0,
+  "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.233454,
+    "lng": 149.193812
+  },
+  "worker": "YsmybC38NvQzFgTIH4awh0OnrGd2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089656"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089656"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e33"
+  },
+  "__v": 0,
+  "description": "The Football Is Good For Training And Recreational Purposes",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.229104,
+    "lng": 149.193519
+  },
+  "worker": "7oY6Mb8H2manD1Y8uVIvuC1UMp23",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089672"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089672"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e35"
+  },
+  "__v": 0,
+  "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "level": "high",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.228466,
+    "lng": 149.191601
+  },
+  "worker": "C321PBEQg6RDP40Ep4L9pBWoz3B2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089704"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089704"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e37"
+  },
+  "__v": 0,
+  "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.232157,
+    "lng": 149.190379
+  },
+  "worker": "9zelQEMJBZfWU2Zw7y6S6rR3J9k1",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089723"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089723"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e3a"
+  },
+  "__v": 0,
+  "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.308673,
+    "lng": 149.190844
+  },
+  "worker": "I6BFHmVIgraHfdKepmGqiku4IJh1",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d0"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089762"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e3c"
+  },
+  "__v": 0,
+  "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.307996,
+    "lng": 149.189644
+  },
+  "worker": "u3GIuVF3ZiTAPxfBjLT2hBmdpSV2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d0"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089784"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089784"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3cb9d0a6adeb78e41e3e"
+  },
+  "__v": 0,
+  "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "level": "high",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.312353,
+    "lng": 149.190057
+  },
+  "worker": "lNBdBf5K1ERGVYwhknDXMwjXDFn2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d0"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892089807"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892089807"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e42"
+  },
+  "__v": 0,
+  "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.267223,
+    "lng": 149.132459
+  },
+  "worker": "u3GIuVF3ZiTAPxfBjLT2hBmdpSV2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cd"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187128"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187128"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e44"
+  },
+  "__v": 0,
+  "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.268078,
+    "lng": 149.130768
+  },
+  "worker": "CvLtx79VM6NK8OForOA72CiVntn2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cd"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187143"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187143"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e47"
+  },
+  "__v": 0,
+  "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "level": "high",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.294187,
+    "lng": 149.117288
+  },
+  "worker": "gHOKg5KvCZW4SsYsylRAYF55mWQ2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ca"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187176"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187176"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e49"
+  },
+  "__v": 0,
+  "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.292863,
+    "lng": 149.115857
+  },
+  "worker": "qAL6iUsmM5fWfpb5yzK81zOcSJ02",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ca"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187194"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187194"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e4b"
+  },
+  "__v": 0,
+  "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.289651,
+    "lng": 149.115738
+  },
+  "worker": "CvLtx79VM6NK8OForOA72CiVntn2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ca"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187212"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187212"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e4f"
+  },
+  "__v": 0,
+  "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.30536,
+    "lng": 149.09227
+  },
+  "worker": "lNBdBf5K1ERGVYwhknDXMwjXDFn2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cb"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187253"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187253"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e51"
+  },
+  "__v": 0,
+  "description": "The Football Is Good For Training And Recreational Purposes",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.303554,
+    "lng": 149.09117
+  },
+  "worker": "qAL6iUsmM5fWfpb5yzK81zOcSJ02",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cb"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187271"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187271"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e54"
+  },
+  "__v": 0,
+  "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.247609,
+    "lng": 149.030703
+  },
+  "worker": "gHOKg5KvCZW4SsYsylRAYF55mWQ2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cf"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187300"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187300"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e56"
+  },
+  "__v": 0,
+  "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+  "level": "high",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.249364,
+    "lng": 149.034539
+  },
+  "worker": "9zelQEMJBZfWU2Zw7y6S6rR3J9k1",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415cf"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187316"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187316"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e59"
+  },
+  "__v": 0,
+  "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.322872,
+    "lng": 149.086634
+  },
+  "worker": "lNBdBf5K1ERGVYwhknDXMwjXDFn2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ce"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187348"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187348"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e5b"
+  },
+  "__v": 0,
+  "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.322688,
+    "lng": 149.082037
+  },
+  "worker": "YsmybC38NvQzFgTIH4awh0OnrGd2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415ce"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187365"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187365"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e5e"
+  },
+  "__v": 0,
+  "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.230282,
+    "lng": 149.19754
+  },
+  "worker": "mlnaEV2wbMbygNZBtKpuZKYGXWZ2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187392"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187392"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e60"
+  },
+  "__v": 0,
+  "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+  "level": "low",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.228668,
+    "lng": 149.19601
+  },
+  "worker": "gHOKg5KvCZW4SsYsylRAYF55mWQ2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187410"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187410"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e62"
+  },
+  "__v": 0,
+  "description": "The Football Is Good For Training And Recreational Purposes",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.22661,
+    "lng": 149.197132
+  },
+  "worker": "C321PBEQg6RDP40Ep4L9pBWoz3B2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187426"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187426"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e64"
+  },
+  "__v": 0,
+  "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.231687,
+    "lng": 149.191389
+  },
+  "worker": "TXs4l1FRw3TpxJAA29xdDEXD0KG2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187447"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187447"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e67"
+  },
+  "__v": 0,
+  "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+  "level": "veryHigh",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.311834,
+    "lng": 149.19247
+  },
+  "worker": "lNBdBf5K1ERGVYwhknDXMwjXDFn2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d0"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187479"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187479"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e69"
+  },
+  "__v": 0,
+  "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.311388,
+    "lng": 149.189001
+  },
+  "worker": "u3GIuVF3ZiTAPxfBjLT2hBmdpSV2",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d0"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187497"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187497"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633c3d1bd0a6adeb78e41e6b"
+  },
+  "__v": 0,
+  "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+  "level": "medium",
+  "status": "unresolved",
+  "location": {
+    "lat": -35.31071,
+    "lng": 149.188414
+  },
+  "worker": "I6BFHmVIgraHfdKepmGqiku4IJh1",
+  "site": {
+    "$oid": "633ba08e9751c4631f6415d0"
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664892187514"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664892187514"
+    }
+  }
+}]

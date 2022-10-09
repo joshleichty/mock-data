@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415cd"
+  },
+  "__v": 0,
+  "title": "Mirage towers",
+  "radius": 169,
+  "address": "62-60 Henty St, Braddon ACT 2612, Australia",
+  "location": {
+    "lat": -35.268657,
+    "lng": 149.132128
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633b931dfc13ae7bff000066"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664852110285"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415ca"
+  },
+  "__v": 0,
+  "title": "National Museum",
+  "address": "25 Lennox Crossing, Acton ACT 2601, Australia",
+  "radius": 360,
+  "location": {
+    "lat": -35.292225,
+    "lng": 149.118809
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633ba3c51b8774a415064159"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664852110282"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110282"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415cc"
+  },
+  "__v": 0,
+  "title": "Park offices",
+  "radius": 260,
+  "address": "100 Northcott Dr, Australian Capital Territory 2609, Australia",
+  "location": {
+    "lat": -35.282645,
+    "lng": 149.17278
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633ba3f71b8774a41506415a"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664852110284"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110284"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415cb"
+  },
+  "__v": 0,
+  "title": "Federal Golf Club",
+  "radius": 193,
+  "address": "71 Bentham St, Yarralumla ACT 2600, Australia",
+  "location": {
+    "lat": -35.305278,
+    "lng": 149.090863
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633ba40b1b8774a41506415b"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664852110284"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110284"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415cf"
+  },
+  "__v": 0,
+  "title": "Hawker College",
+  "address": "51 Murranji St, Hawker ACT 2614, Australia",
+  "radius": 463,
+  "location": {
+    "lat": -35.246191,
+    "lng": 149.031989
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633ba598d6d7791a98dd0028"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664852110286"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110286"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415ce"
+  },
+  "__v": 0,
+  "title": "Kingswim Apartments",
+  "address": "14 Martin St, Curtin ACT 2605, Australia",
+  "radius": 442,
+  "location": {
+    "lat": -35.326492,
+    "lng": 149.085226
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633ba5c3d6d7791a98dd0029"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664852110285"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415d1"
+  },
+  "__v": 0,
+  "title": "Watson Vineyard",
+  "radius": 500,
+  "address": "88, Lime Kiln Road, Majura ACT 2609, Australia",
+  "location": {
+    "lat": -35.230947,
+    "lng": 149.194365
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633ba525a7960b3cb3893dc0"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665034391000"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110286"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "633ba08e9751c4631f6415d0"
+  },
+  "__v": 0,
+  "title": "Canberra Airport",
+  "radius": 257,
+  "address": "Terminal Cct, Australian Capital Territory 2609, Australia",
+  "location": {
+    "lat": -35.310178,
+    "lng": 149.19032
+  },
+  "company": {
+    "$oid": "633aef62ebdb8909cb5c5ad8"
+  },
+  "admin": "1PZ9oXWcWLV2lD9yin0U5ZNEWKk1",
+  "induction": {
+    "$oid": "633ba57dee5939934a90895d"
+  },
+  "toolbox": {
+    "$oid": "633b931dfc13ae7bff000067"
+  },
+  "evacuation": null,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664852110286"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664852110286"
+    }
+  }
+}]
